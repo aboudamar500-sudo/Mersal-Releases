@@ -1,6 +1,6 @@
 {
-  "versionCode": 1,
-  "versionName": "0.1.0",
-  "downloadUrl": "https://github.com/aboudamar500-sudo/Mersal-Releases/releases/download/v0.1.0/app-release.apk",
-  "releaseNotes": "أول إصدار من تطبيق مرسال"
+  "versionCode": 2,
+  "versionName": "0.2.0",
+  "downloadUrl": "https://github.com/aboudamar500-sudo/Mersal-Releases/releases/download/v0.2.0/app-release.apk",
+  "releaseNotes": "إضافة إنشاء الحساب والمحادثات والإرسال والاستقبال ونظام التحديثات"
 }
