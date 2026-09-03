@@ -1,6 +1,6 @@
 {
-  "versionCode": 2,
-  "versionName": "0.2.0",
-  "downloadUrl": "https://github.com/aboudamar500-sudo/Mersal-Releases/releases/download/v0.2.0/app-release.apk",
-  "releaseNotes": "إضافة إنشاء الحساب والمحادثات والإرسال والاستقبال ونظام التحديثات"
+  "versionCode": 3,
+  "versionName": "0.3.0",
+  "downloadUrl": "https://github.com/aboudamar500-sudo/Mersal-Releases/releases/download/v0.3.0/app-release.apk",
+  "releaseNotes": "اختبار الاتصال بين الهاتف والتابلت عبر الشبكة المحلية"
 }
