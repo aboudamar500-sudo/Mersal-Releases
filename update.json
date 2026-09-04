@@ -1,6 +1,6 @@
 {
-  "versionCode": 3,
-  "versionName": "0.3.0",
-  "downloadUrl": "https://github.com/aboudamar500-sudo/Mersal-Releases/releases/download/v0.3.0/app-release.apk",
-  "releaseNotes": "اختبار الاتصال بين الهاتف والتابلت عبر الشبكة المحلية"
+  "versionCode": 4,
+  "versionName": "0.4.0",
+  "downloadUrl": "https://github.com/aboudamar500-sudo/Mersal-Releases/releases/download/v0.4.0/app-release.apk",
+  "releaseNotes": "إصلاح مشكلة تشغيل مرسال على الأجهزة القديمة وتحسين التوافق مع Android 8.1"
 }
